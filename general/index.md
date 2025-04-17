@@ -14,8 +14,6 @@ By leveraging Toluna's web service, clients can achieve:
 - Enhanced data integrity by reducing fraudulent Survey Completions and improving Respondent Quality
 - A **one-time** implementation process for *long-term efficiency*
 
-* TOC
-
 ---
 
 ## RESTful API for Member-Survey Status Notification
