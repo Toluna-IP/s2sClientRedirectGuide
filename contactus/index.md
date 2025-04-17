@@ -1,7 +1,7 @@
 ---
 title: Contact Us
-nav_order: 99
-nav_enabled: true
+nav_order: 50
+has_children: false
 ---
 
 ## Contact Toluna
