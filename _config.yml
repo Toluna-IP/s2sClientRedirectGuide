@@ -1,5 +1,8 @@
-title: "Toluna Server-to-Server (s2s) Client Redirects"
+title: "Toluna Client Redirects"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 heading_anchors: true
 search.button: true
+aux_links:
+  "Contact Us":
+   - "https://toluna-ip.github.io/s2sClientRedirectGuide/contactus/"
