@@ -2,6 +2,7 @@
 title: Member-Survey Status
 parent: General Overview
 nav_order: 1
+nav_enabled: true
 ---
 
 # Member-Survey Status Notification
