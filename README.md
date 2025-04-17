@@ -1,4 +1,4 @@
-![Toluna Logo](/resources/Toluna/toluna%20full%20color.png)
+![Toluna Logo](resources/Toluna/toluna%20full%20color.png)
 
 # Welcome
 
