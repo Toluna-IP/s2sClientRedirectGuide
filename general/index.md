@@ -14,14 +14,23 @@ By leveraging Toluna's web service, clients can achieve:
 - Enhanced data integrity by reducing fraudulent Survey Completions and improving Respondent Quality
 - A **one-time** implementation process for *long-term efficiency*
 
+
+* TOC
+{:toc}
+
 ---
 
 ## RESTful API for Member-Survey Status Notification
 
-Toluna offers a RESTful API that allows clients to communicate the status of a Member-Survey upon its completion. This integration ensures accurate tracking and reporting of Survey outcomes.
+Toluna offers a RESTful API that allows clients to communicate the status of a Member-Survey upon its completion. This integration ensures accurate tracking and reporting of Survey outcomes. Learn more [here.](/general/memberSurveyStatus.html)
 
-### Redirect URL
+## Member Start Validation
 
-In addition to the API call, Members must be redirected back to Toluna using a specified URL. This redirection should occur simultaneously with the API call.
+Clients may confirm if a particular Invite URL has been used by a member, while also retrieving the GID value of that Member's Response. Learn more [here.](/general/memberStartValidation.html)
+
+## Redirect URL
+
+In addition to the API call, the Client should also redirect the member to the appropriate endpage as described [here](/s2sClientRedirectGuide/general/redirectingMember.html).
+
 
 
