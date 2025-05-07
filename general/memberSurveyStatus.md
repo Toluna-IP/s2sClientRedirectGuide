@@ -10,6 +10,10 @@ nav_enabled: true
 
 These Notifications are used to securely inform Toluna of a Member's end-status within a Survey. In addition to sending these calls, the Client should also redirect the member to the appropriate endpage as described [here](/s2sClientRedirectGuide/general/redirectingMember.html).
 
+{: .important}
+> IMPORTANT
+> Ensure all API requests originate from the Client Survey side and utilize HTTPS for secure communication
+
 * TOC
 {:toc}
 
