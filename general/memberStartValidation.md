@@ -18,10 +18,9 @@ nav_enabled: true
 Below are detail on validating a Member has started a survey with a given GID. GID values should be captured from the Survey URL and included in the API call to Toluna.
 
 
-{: .label .label-red }
-Important
-
-Ensure all API requests originate from the Client Server side and utilize HTTPS for secure communication.
+> IMPORTANT
+>
+> Ensure all API requests originate from the Client Survey side and utilize HTTPS for secure communicati
 
 ### Route
 
