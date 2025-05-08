@@ -24,7 +24,7 @@ Toluna will encrypt the Suvey Start URL
 - Encryption Method: HMAC SHA256 with Client-specific key
 - Output Format: HEX, set to UPPERCASE
 - Parameter Name: TolunaStartEnc
-- Verification: Clients should verify the URL (excluding the "TolunaStartEnd" parameter)
+- Verification: Clients should verify the URL (excluding the "TolunaStartEnc" parameter)
 
 ### Implementation
 
@@ -52,7 +52,7 @@ When redirecting back to Toluna, clients can sign the redirect URL using a per s
 The Redirect URL from the Client back to Toluna should be signed by the Client
 - Signing Method: HMAC SHA256 with a Client-specific key
 - Output Format: HEX, set to UPPERCASE
-- Parameter: The signature should be appended as "&Toluna ENC="
+- Parameter: The signature should be appended as "&TolunaENC="
 - Validation: Toluna will validate the hashed value by signing the same URL and comparing results
 
 ### Implementation
