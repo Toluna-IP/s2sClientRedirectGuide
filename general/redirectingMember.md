@@ -1,6 +1,6 @@
 ---
 title: Redirecting Members
-parent: General Overview
+parent: Toluna’s Server-to-Server API
 nav_order: 3
 nav_enabled: true
 ---

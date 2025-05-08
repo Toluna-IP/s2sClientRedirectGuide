@@ -1,6 +1,6 @@
 ---
 title: Member-Survey Status
-parent: General Overview
+parent: Toluna’s Server-to-Server API
 nav_order: 1
 nav_enabled: true
 ---
