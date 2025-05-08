@@ -8,7 +8,7 @@ nav_enabled: true
 # Member-Survey Status Notification
 {: .no_toc }
 
-These Notifications are used to securely inform Toluna of a Member's end-status within a Survey. In addition to sending these calls, the Client should also redirect the member to the appropriate endpage as described [here](/s2sClientRedirectGuide/general/redirectingMember.html).
+These Notifications are used to securely inform Toluna of a Member's end-status within a Survey. In addition to sending these calls, the Client should also redirect the member to the appropriate endpage as described [here](/s2sClientRedirectGuide/server-to-server/redirectingMember.html).
 
 > IMPORTANT
 >

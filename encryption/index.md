@@ -59,7 +59,7 @@ The Redirect URL from the Client back to Toluna should be signed by the Client
 
 These step should be implemented by the Client
 
-1. URL Construction: Construct the Redirect URL to Toluna based on the Redirect URLs provided [here](/general/redirectingMember.html).
+1. URL Construction: Construct the Redirect URL to Toluna based on the Redirect URLs provided [here](/server-to-server/redirectingMember.html).
 2. Signing: Sign the URL using HMAC SHA256 with the provided, Client-specific key
 3. Output Format: Ensure the output is in HEX format and set to UPPERCASE
 4. Parameter Addition: Append the result to the Redirect URL as the "TolunaENC" parameter
