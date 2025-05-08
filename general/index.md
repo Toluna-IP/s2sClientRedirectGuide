@@ -5,7 +5,6 @@ has_children: true
 ---
 
 # Introduction
-{: .no_toc }
 
 This guide provides instructions for integrating Toluna's server-to-server API for member-survey status notifications. 
 
@@ -16,8 +15,6 @@ By leveraging Toluna's web service, clients can achieve:
 - A one-time implementation process for long-term efficiency
 
 
-* TOC
-{:toc}
 
 ---
 
