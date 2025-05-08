@@ -9,7 +9,8 @@ has_children: true
 
 This guide provides instructions for integrating Toluna's server-to-server API for member-survey status notifications. 
 
-By leveraging Toluna's web service, clients can achieve:
+By leveraging Toluna's web service, clients can achieve
+
 - Seamless integration between the Client's system and Toluna's platform
 - Enhanced data integrity by reducing fraudulent Survey Completions and improving Respondent Quality
 - A **one-time** implementation process for *long-term efficiency*
