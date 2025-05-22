@@ -1,7 +1,7 @@
 ---
 title: Member-Start Validation
 parent: Toluna’s Server-to-Server API
-nav_order: 2
+nav_order: 1
 nav_enabled: true
 ---
 
