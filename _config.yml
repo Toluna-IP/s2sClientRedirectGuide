@@ -6,3 +6,6 @@ search.button: true
 aux_links:
   "Contact Us":
    - "https://toluna-ip.github.io/s2sClientRedirectGuide/contactus/"
+  
+plugins:
+  - jekyll-remote-theme
