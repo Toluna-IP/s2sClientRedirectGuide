@@ -20,15 +20,15 @@ By leveraging Toluna's web service, clients can achieve:
 
 ## RESTful API for Member-Survey Status Notification
 
-Toluna offers a RESTful API that allows clients to communicate the status of a Member-Survey upon its completion. This integration ensures accurate tracking and reporting of Survey outcomes. Learn more [here.](/s2sClientRedirectGuide/servertoserver/memberSurveyStatus.html)
+Toluna offers a RESTful API that allows clients to communicate the status of a Member-Survey upon its completion. This integration ensures accurate tracking and reporting of Survey outcomes. Learn more [here.](/servertoserver/memberSurveyStatus.html)
 
 ## Member Start Validation
 
-Clients may confirm if a particular Invite URL has been used by a member, while also retrieving the GID value of that Member's Response. Learn more [here.](/s2sClientRedirectGuide/servertoserver/memberStartValidation.html)
+Clients may confirm if a particular Invite URL has been used by a member, while also retrieving the GID value of that Member's Response. Learn more [here.](/servertoserver/memberStartValidation.html)
 
 ## Redirect URL
 
-In addition to the API call, the Client should also redirect the member to the appropriate endpage as described [here](/s2sClientRedirectGuide/servertoserver/redirectingMember.html).
+In addition to the API call, the Client should also redirect the member to the appropriate endpage as described [here](/servertoserver/redirectingMember.html).
 
 
 
