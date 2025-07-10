@@ -1,5 +1,4 @@
 ---
-title: Home
 has_toc:false
 ---
 
