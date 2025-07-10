@@ -1,5 +1,5 @@
 ---
-has_toc:false
+has_toc: false
 ---
 
 ![Toluna Logo](resources/Toluna/toluna%20full%20color.png)
