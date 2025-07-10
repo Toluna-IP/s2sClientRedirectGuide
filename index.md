@@ -9,5 +9,3 @@ has_toc: false
 Welcome to the online guide for Toluna's Server-to-Server (s2s) Redirect Guide.
 
 Use the navigation panel on the left to learn more about the API and its functionalities!
-
-test
