@@ -31,8 +31,8 @@ POST https://{tolunaHost}/client/survey_end
 
 | Name | Type | Description | Required? | 
 | :--- | :--- | :--- | :---: |
-| GID | ```guid``` | The unique identifier provided to the client as a URL parameter at the Survey's invitation | Yes |
-| Status | ```string``` | The Survey Completion status on the Client side. Must be one of the following: Terminated / Screened, Qualified / Complete, QuotaFull, QualityTermination | Yes |
+| Gid | ```guid``` | The unique identifier provided to the client as a URL parameter at the Survey's invitation | Yes |
+| CompletionStatus | ```string``` | The Survey Completion status on the Client side. Must be one of the following: Terminated / Screened, Qualified / Complete, QuotaFull, QualityTermination | Yes |
 
 ### Headers
 
