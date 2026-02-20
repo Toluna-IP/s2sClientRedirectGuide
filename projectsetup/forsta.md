@@ -13,14 +13,14 @@ Please follow the below steps to create API-compatible projects using Forsta:
 2. Go to Integration Settings
 3. Click "Secure Samples" and select Toluna from the dropdown list
 
-![SecureSamples](resources\other\Forsta_secureSamples-dropdown.jpg)
+![SecureSamples](resources/other/Forsta_secureSamples-dropdown.jpg)
 
 4. Add your Toluna-provided API key
 
-![APIKey](resources\other\Forsta_secureSamples-dropdown.jpg)
+![APIKey](resources/other/Forsta_secureSamples-dropdown.jpg)
 
 > Contact your Toluna representative if you require an API key.
 5. Select "Server-to-Server Authentication" 
 
 
-Please contact your Toluna representative if you require additional assistance with Project setup..
+Please contact your Toluna representative if you require additional assistance with Project setup.
